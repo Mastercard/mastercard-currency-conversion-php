@@ -1,0 +1,5 @@
+TAP version 13
+ok 1 - MasterCard\Api\CurrencyConversion\ConversionRateTest::test_example_conversion_rate_request
+ok 2 - MasterCard\Api\CurrencyConversion\CurrenciesTest::test_example_settlement_currencies_request
+ok 3 - MasterCard\Api\CurrencyConversion\RateIssuedTest::test_example_rate_issued_request
+1..3

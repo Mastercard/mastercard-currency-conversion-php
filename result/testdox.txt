@@ -1,0 +1,9 @@
+MasterCard\Api\CurrencyConversion\ConversionRate
+ [x] example conversion rate request
+
+MasterCard\Api\CurrencyConversion\Currencies
+ [x] example settlement currencies request
+
+MasterCard\Api\CurrencyConversion\RateIssued
+ [x] example rate issued request
+
