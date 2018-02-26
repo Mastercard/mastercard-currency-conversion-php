@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="3" assertions="16" failures="0" errors="0" time="1.058270">
+    <testsuite name="MasterCard\Api\CurrencyConversion\ConversionRateTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-CurrencyConversion-Php/workspace/generated-code/currency-conversion/php/sdk/Test/MasterCard/Api/CurrencyConversion/ConversionRateTest.php" tests="1" assertions="7" failures="0" errors="0" time="0.457312">
+      <testcase name="test_example_conversion_rate_request" class="MasterCard\Api\CurrencyConversion\ConversionRateTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-CurrencyConversion-Php/workspace/generated-code/currency-conversion/php/sdk/Test/MasterCard/Api/CurrencyConversion/ConversionRateTest.php" line="51" assertions="7" time="0.457312"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\CurrencyConversion\CurrenciesTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-CurrencyConversion-Php/workspace/generated-code/currency-conversion/php/sdk/Test/MasterCard/Api/CurrencyConversion/CurrenciesTest.php" tests="1" assertions="6" failures="0" errors="0" time="0.318612">
+      <testcase name="test_example_settlement_currencies_request" class="MasterCard\Api\CurrencyConversion\CurrenciesTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-CurrencyConversion-Php/workspace/generated-code/currency-conversion/php/sdk/Test/MasterCard/Api/CurrencyConversion/CurrenciesTest.php" line="51" assertions="6" time="0.318612"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\CurrencyConversion\RateIssuedTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-CurrencyConversion-Php/workspace/generated-code/currency-conversion/php/sdk/Test/MasterCard/Api/CurrencyConversion/RateIssuedTest.php" tests="1" assertions="3" failures="0" errors="0" time="0.282346">
+      <testcase name="test_example_rate_issued_request" class="MasterCard\Api\CurrencyConversion\RateIssuedTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-CurrencyConversion-Php/workspace/generated-code/currency-conversion/php/sdk/Test/MasterCard/Api/CurrencyConversion/RateIssuedTest.php" line="51" assertions="3" time="0.282346"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

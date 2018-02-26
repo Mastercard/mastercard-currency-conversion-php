@@ -1,0 +1,56 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 3
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\CurrencyConversion\\ConversionRateTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\CurrencyConversion\\ConversionRateTest",
+    "test": "MasterCard\\Api\\CurrencyConversion\\ConversionRateTest::test_example_conversion_rate_request"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\CurrencyConversion\\ConversionRateTest",
+    "test": "MasterCard\\Api\\CurrencyConversion\\ConversionRateTest::test_example_conversion_rate_request",
+    "status": "pass",
+    "time": 0.45731210708618,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\CurrencyConversion\\CurrenciesTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\CurrencyConversion\\CurrenciesTest",
+    "test": "MasterCard\\Api\\CurrencyConversion\\CurrenciesTest::test_example_settlement_currencies_request"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\CurrencyConversion\\CurrenciesTest",
+    "test": "MasterCard\\Api\\CurrencyConversion\\CurrenciesTest::test_example_settlement_currencies_request",
+    "status": "pass",
+    "time": 0.31861209869385,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\CurrencyConversion\\RateIssuedTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\CurrencyConversion\\RateIssuedTest",
+    "test": "MasterCard\\Api\\CurrencyConversion\\RateIssuedTest::test_example_rate_issued_request"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\CurrencyConversion\\RateIssuedTest",
+    "test": "MasterCard\\Api\\CurrencyConversion\\RateIssuedTest::test_example_rate_issued_request",
+    "status": "pass",
+    "time": 0.28234601020813,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
